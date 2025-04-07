@@ -1,0 +1,42 @@
+rst_n float (unused)
+clk float (unused)
+ena float (unused)
+uio_out [0-7] GND (unused)
+
+uio_oe[0] = GND
+uio_oe[1] = GND
+uio_oe[2] = GND
+uio_oe[3] = GND
+uio_oe[4] = GND
+uio_oe[5] = GND
+uio_oe[6] = GND
+uio_oe[7] = GND (unused)
+
+ui_in[0] = A1
+ui_in[1] = B1
+ui_in[2] = A2
+ui_in[3] = B2
+ui_in[4] = A3
+ui_in[5] = B3
+ui_in[6] = A4
+ui_in[7] = A4
+uio_in[0] = A5
+uio_in[1] = B5
+uio_in[2] = A6
+uio_in[3] = B6
+uio_in[4] = A7
+uio_in[5] = B7
+uio_in[6] = float
+uio_in[7] = float
+
+ou_out[0] = S1
+ou_out[1] = S2
+ou_out[2] = S3
+ou_out[3] = S4
+ou_out[4] = S5
+ou_out[5] = S6
+ou_out[6] = S7
+ou_out[7] = C0
+
+
+

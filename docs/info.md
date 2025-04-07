@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Seven bit carry ripple adder.
 
 ## How to test
 
-Explain how to use your project
+Set A1-A7, B1-B7 input bits, check C1-C7, C0 output bits.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware.
