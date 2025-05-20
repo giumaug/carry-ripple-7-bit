@@ -1,7 +1,7 @@
 magic
-tech sky130B
+tech sky130A
 magscale 1 2
-timestamp 1744898058
+timestamp 1747071801
 << nwell >>
 rect -38 261 498 582
 << pwell >>
